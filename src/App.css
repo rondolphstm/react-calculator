@@ -40,5 +40,15 @@
 
 button{
   width:33%;
-  
+  background-color: beige;
+  color: black
 }
+
+#calculator{
+  background-color: maroon;
+  padding:5px;
+  margin: 2em;
+  border: 5px solid black
+}
+
+
